@@ -21,7 +21,7 @@ syn keyword absRepeat		while foreach
 syn keyword absBoolean		True False
 syn keyword absConstant	null
 syn keyword absOperator	new
-syn keyword absType	Unit Bool Int Rat Float String Fut Exception List Set Map Pair Triple Maybe
+syn keyword absType	Unit Bool Int Rat Float String Fut Exception List Set Map Pair Triple Maybe Any
 syn keyword absStatement	return await
 syn keyword absExceptions	throw try catch finally
 syn keyword absAssert		assert
